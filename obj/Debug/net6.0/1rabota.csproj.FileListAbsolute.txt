@@ -1,0 +1,15 @@
+C:\Users\lutse\Desktop\1rabota\bin\Debug\net6.0\1rabota.exe
+C:\Users\lutse\Desktop\1rabota\bin\Debug\net6.0\1rabota.deps.json
+C:\Users\lutse\Desktop\1rabota\bin\Debug\net6.0\1rabota.runtimeconfig.json
+C:\Users\lutse\Desktop\1rabota\bin\Debug\net6.0\1rabota.dll
+C:\Users\lutse\Desktop\1rabota\bin\Debug\net6.0\1rabota.pdb
+C:\Users\lutse\Desktop\1rabota\obj\Debug\net6.0\1rabota.csproj.AssemblyReference.cache
+C:\Users\lutse\Desktop\1rabota\obj\Debug\net6.0\1rabota.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lutse\Desktop\1rabota\obj\Debug\net6.0\1rabota.AssemblyInfoInputs.cache
+C:\Users\lutse\Desktop\1rabota\obj\Debug\net6.0\1rabota.AssemblyInfo.cs
+C:\Users\lutse\Desktop\1rabota\obj\Debug\net6.0\1rabota.csproj.CoreCompileInputs.cache
+C:\Users\lutse\Desktop\1rabota\obj\Debug\net6.0\1rabota.dll
+C:\Users\lutse\Desktop\1rabota\obj\Debug\net6.0\refint\1rabota.dll
+C:\Users\lutse\Desktop\1rabota\obj\Debug\net6.0\1rabota.pdb
+C:\Users\lutse\Desktop\1rabota\obj\Debug\net6.0\1rabota.genruntimeconfig.cache
+C:\Users\lutse\Desktop\1rabota\obj\Debug\net6.0\ref\1rabota.dll
